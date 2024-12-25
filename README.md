@@ -43,7 +43,7 @@ Skills Demonstrated
 
 How to Run
 1. Clone the repository:
-- git clone https://github.com/your-username/calorie-step-tracker.git
+- git clone https://github.com/DawNow98/calorie-step-tracker.git
 2. Open the project in Xcode.
 3. Ensure HealthKit is enabled for the project in Xcode.
 4. Build and run the app on a physical iOS device (HealthKit data cannot be accessed in the simulator).
