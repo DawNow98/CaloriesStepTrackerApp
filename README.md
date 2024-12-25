@@ -2,6 +2,7 @@ CalorieStepTracker 🚶‍♂️🔥
 
 
 Purpose
+
 CalorieStepTracker is a sleek and intuitive application that tracks your daily step count and calculates calories burned based on your weight. By integrating seamlessly with HealthKit, this app provides real-time data and encourages users to stay active and monitor their fitness goals.
 
 This project demonstrates expertise in using SwiftUI, HealthKit integration, and state management for a real-world fitness tracking application.
@@ -41,6 +42,7 @@ Skills Demonstrated
 
 
 How to Run
+
 1.Clone the repository:
 - git clone https://github.com/your-username/calorie-step-tracker.git
 2. Open the project in Xcode.
